@@ -1,0 +1,2 @@
+# utl_given_meta_data_with_mutiple_filepaths_and_accounts_create_an_xml_file_for_each_filepath_and_acc
+Given meta data with mutiple filepaths and accounts create an xml file for each filepath and account.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
